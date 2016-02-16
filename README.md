@@ -1,2 +1,2 @@
 # hello-world
-golanf hello-world
+golang hello-world
